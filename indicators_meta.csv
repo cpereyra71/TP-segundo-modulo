@@ -1,0 +1,9 @@
+indicator_code,indicator_name,unit,topic
+NY.GDP.MKTP.CD,PIB (dólares estadounidenses a precios actuales),Dólares estadounidenses corrientes (US$) ,economia
+NY.GDP.PCAP.CD,PIB per cápita (dólares estadounidenses a precios actuales),Dólares estadounidenses corrientes por habitante (US$ per capita) ,economia
+NE.EXP.GNFS.ZS,Exportaciones de bienes y servicios (% del PIB),Porcentaje del PIB (%) ,economia
+FP.CPI.TOTL.ZG,"Inflación, precios al consumidor (% anual)",Porcentaje (%) – variación anual del IPC ,economia
+DT.DOD.DSTC.IR.ZS,Deuda a corto plazo (% de las reservas totales),Porcentaje de reservas internacionales (%) ,deuda externa
+DT.TDS.DECT.EX.ZS,"Servicio total de la deuda (% de las exportaciones de bienes, servicios e ingresos primarios)",Porcentaje de exportaciones (%) ,deuda externa
+DT.DOD.DECT.GN.ZS,Saldos de deuda externa (% del INB),Porcentaje del INB (%) ,deuda externa
+DT.DOD.DECT.CD,"Saldos de deuda externa, total (Deuda del Departamento de Defensa, dólares estadounidenses a precios actuales)",Dólares estadounidenses corrientes (US$) ,deuda externa

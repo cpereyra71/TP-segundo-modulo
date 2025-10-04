@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+pymysql
+altair
+python-dotenv
+jupyter
+ipywidgets
+matplotlib
